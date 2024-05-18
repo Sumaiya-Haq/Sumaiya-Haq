@@ -1,12 +1,15 @@
-![web developer and problem solver](https://www.linkedin.com/in/sumaiya-haq-7127a92a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpwKwD7%2BlSZyxGOV0dXOunQ%3D%3D)
-# Hi there 👋, I'm Sumaiya Haq
-#### web developer and problem solver
+![web development](<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D965647271729208%26set%3Da.186008033026473&show_text=true&width=500&is_preview=true" width="500" height="733" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>)
+ 
+ ## Hi there 👋, I'm Sumaiya Haq
+#### web development
 
-I am a student and I like to work on web development and problem solving .
 
-Skills: c /c++/HTML/CSS
+I am a student and i love web development and problem solving
 
-- 🌱 I’m currently learning C++/JAVA 
+Skills: C/C++ / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning C++/HTML 
 - 💬 Ask me about web development 
 
 
@@ -15,4 +18,6 @@ Skills: c /c++/HTML/CSS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sumaiya-Haq)  
+
+
 
