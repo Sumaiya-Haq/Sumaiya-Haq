@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumaiaya-haq-31034b2b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumaiaya-haq-31034b2b9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumaiaya-haq39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumaiaya-haq39" height="30" width="40" /></a>
 <a href="https://fb.com/sumaiya.haq.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumaiya.haq.39" height="30" width="40" /></a>
 <a href="https://instagram.com/sumaiya.haq.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumaiya.haq.39" height="30" width="40" /></a>
 </p>
@@ -26,4 +26,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumaiya-haq&show_icons=true&locale=en&layout=compact" alt="sumaiya-haq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya-haq&" alt="sumaiya-haq" /></p>
-
