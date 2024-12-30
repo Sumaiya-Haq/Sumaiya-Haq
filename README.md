@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **C++, HTML, CSS, and Java**
 - 👯 I’m looking to collaborate on **Open-source projects**
 - 💬 Ask me about **C++, Java, and HTML**
-- 📫 Reach me at **sumaiyahaq30@gmail.com**
+- 📫 Reach me at **sumaiyahaq30@gmail.com** or **23303137@iubat.edu**
 - ⚡ Fun fact: **Coding = Fun + Creativity**
 
 ---
@@ -28,8 +28,11 @@
   <a href="https://fb.com/sumaiya.haq.39" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/sumaiya.haq.39" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+  <a href="mailto:sumaiyahaq30@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="40" width="40" />
+  </a>
+  <a href="mailto:23303137@iubat.edu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Academic Email" height="40" width="40" />
   </a>
 </p>
 
@@ -60,5 +63,10 @@
 </p>
 
 ---
+
+<h3 align="center">🏆 Achievements:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumaiya-haq&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 <h3 align="center">🌟 Let's connect and grow together! 🌟</h3>
