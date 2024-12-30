@@ -1,28 +1,64 @@
 <h1 align="center">Hi 👋, I'm Sumaiya Haq</h1>
-<h3 align="center">I am a programming learner</h3>
+<h3 align="center">A passionate programming learner and aspiring developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiya-haq&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-haq" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sumaiya-haq&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-haq" /> 
+  <img src="https://img.shields.io/github/followers/sumaiya-haq?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-- 🌱 I’m currently learning **C++,html,css,java**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&background=FF69B400&center=true&width=435&lines=Welcome+to+my+GitHub!;Learning+never+stops!;Let's+code+together!+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-- 👯 I’m looking to collaborate on **Git hub**
+---
 
-- 💬 Ask me about **c++,java,html**
+- 🌱 I’m currently learning **C++, HTML, CSS, and Java**
+- 👯 I’m looking to collaborate on **Open-source projects**
+- 💬 Ask me about **C++, Java, and HTML**
+- 📫 Reach me at **sumaiyahaq30@gmail.com**
+- ⚡ Fun fact: **Coding = Fun + Creativity**
 
-- 📫 How to reach me **sumaiyahaq30@gmail.com**
-
-- ⚡ Fun fact **Fun with code**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumaiaya-haq39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumaiaya-haq39" height="30" width="40" /></a>
-<a href="https://fb.com/sumaiya.haq.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumaiya.haq.39" height="30" width="40" /></a>
-<a href="https://instagram.com/sumaiya.haq.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumaiya.haq.39" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sumaiaya-haq-31034b2b9" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://fb.com/sumaiya.haq.39" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/sumaiya.haq.39" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+  </a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumaiya-haq&show_icons=true&locale=en&layout=compact" alt="sumaiya-haq" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya-haq&" alt="sumaiya-haq" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya-haq&show_icons=true&theme=radical" alt="sumaiya-haq GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya-haq&theme=radical" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya-haq&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🌟 Let's connect and grow together! 🌟</h3>
