@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sumaiya Haq</h1>
 <h3 align="center">A passionate programming learner and aspiring developer</h3>
 
-<div align="center">
-  <img align="right" src="https://assets5.lottiefiles.com/packages/lf20_z01e7j4h.json" width="300" alt="Coding Animation" />
-</div>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sumaiya-haq&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-haq" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumaiya-haq&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-haq" />
   <img src="https://img.shields.io/github/followers/sumaiya-haq?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&background=FF69B400&center=true&width=435&lines=Welcome+to+my+GitHub!;Learning+never+stops!;Let's+code+together!+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="Coding Animation" width="250" />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&background=FF69B400&center=true&width=435&lines=Welcome+to+my+GitHub!;Learning+never+stops!;Let's+code+together!+%F0%9F%92%BB" alt="Typing SVG" />
+  </p>
+</div>
 
 ---
 
