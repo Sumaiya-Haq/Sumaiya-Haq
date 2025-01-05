@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sumaiya Haq</h1>
-<h3 align="center">A passionate programming learner and aspiring developer</h3>
+<div align="center" style="position: relative;">
+  <h1 align="center">Hi 👋, I'm Sumaiya Haq</h1>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+       alt="Girl Coding Animation" 
+       width="150" 
+       style="position: absolute; top: 0; right: 0;" />
+  <h3 align="center">A passionate programming learner and aspiring developer</h3>
+</div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sumaiya-haq&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-haq" /> 
@@ -74,4 +80,3 @@
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="500" />
 </p>
-
