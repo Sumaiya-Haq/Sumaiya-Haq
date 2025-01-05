@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sumaiya Haq</h1>
 <h3 align="center">A passionate programming learner and aspiring developer</h3>
 
+<div align="center">
+  <img align="right" src="https://assets5.lottiefiles.com/packages/lf20_z01e7j4h.json" width="300" alt="Coding Animation" />
+</div>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sumaiya-haq&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-haq" /> 
   <img src="https://img.shields.io/github/followers/sumaiya-haq?label=Followers&style=social" alt="GitHub Followers" />
@@ -70,4 +74,3 @@
 </p>
 
 <h3 align="center">🌟 Let's connect and grow together! 🌟</h3>
-add here a coading animation
