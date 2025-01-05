@@ -1,9 +1,9 @@
 <div align="center" style="position: relative;">
   <h1 align="center">Hi 👋, I'm Sumaiya Haq</h1>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-       alt="Girl Coding Animation" 
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
+       alt="Female Coding Animation" 
        width="150" 
-       style="position: absolute; top: 0; right: 0;" />
+       style="position: absolute; top: 0; right: 0; border-radius: 50%;" />
   <h3 align="center">A passionate programming learner and aspiring developer</h3>
 </div>
 
