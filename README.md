@@ -62,13 +62,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a> 
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-   <img src="RAW_IMAGE_URL" alt="Assembler" width="40" height="40"/>
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Assembly_language_logo.png" alt="Assembler" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006540.png" alt="DSA" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
