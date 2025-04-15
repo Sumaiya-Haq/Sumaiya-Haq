@@ -15,9 +15,9 @@
 
 ---
 
-- 🌱 I’m currently learning **C++, HTML, CSS, and Assembler**
+- 🌱 I’m currently learning **C++, HTML, CSS, and Data Structures**
 - 👯 I’m looking to collaborate on **Open-source projects**
-- 💬 Ask me about **C++, Assembler, and HTML**
+- 💬 Ask me about **C++, Data Structures, and HTML**
 - 📫 Reach me at **sumaiyahaq30@gmail.com** or **23303137@iubat.edu**
 - ⚡ Fun fact: **Coding = Fun + Creativity**
 
@@ -61,14 +61,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a> 
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Assembly_language_logo.png" alt="Assembler" width="40" height="40"/>
-  </a>
   <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006540.png" alt="DSA" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
@@ -91,4 +87,6 @@
 </p>
 
 <h3 align="center">🌟 Let's connect and grow together! 🌟</h3>
+
+
 
