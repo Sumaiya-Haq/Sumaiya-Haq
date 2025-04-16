@@ -70,14 +70,15 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya-haq&show_icons=true&theme=radical" alt="sumaiya-haq GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumaiya-Haq&show_icons=true&theme=radical" alt="Sumaiya-Haq GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya-haq&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Sumaiya-Haq&theme=radical" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya-haq&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiya-Haq&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
