@@ -1,66 +1,78 @@
-<h1 align="center">Hey there! 👋 I'm Sumaiya Haq</h1>
-<h3 align="center">💻 Aspiring Developer | 🌱 Lifelong Learner | 🚀 Future Software Engineer</h3>
+<h1 align="center">✨ Sumaiya Haq ✨</h1>
+<h3 align="center">Aspiring Developer | Lifelong Learner | Passionate Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+love+to+code+and+create.;Exploring+the+world+of+tech.;Always+curious%2C+always+learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Sumaiya+Haq.;CS+Student+%7C+Open-Source+Enthusiast.;I+love+to+learn+and+build+cool+stuff!+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me
 
-- 🎓 Computer Science student at **IUBAT**
-- 💻 Currently learning: **C++**, **Java**, **HTML**, **CSS**
-- 🧠 Passionate about **problem-solving**, **web development**, and **clean code**
-- 🤝 Looking to contribute to **open-source projects** and collaborate on cool ideas
-- ✨ Fun fact: I treat bugs like puzzles 🧩 – they *have* to be solved!
-- 📬 Let's talk! Reach me at: **sumaiyahaq30@gmail.com**
+💫 I'm **Sumaiya Haq**, a passionate and dedicated computer science student at **IUBAT**.  
+I'm on a mission to learn, build, and grow into a skilled software developer who loves clean code and impactful solutions.
+
+- 🔭 I’m currently working on: **Sharpening my coding fundamentals**
+- 🌱 Learning more about: **DSA (Data Structures & Algorithms)** and **Assembly**
+- 🤝 Always up for: **Collaboration, Open Source, and New Challenges**
+- 📧 Email me: **sumaiyahaq30@gmail.com** | **23303137@iubat.edu**
+- 🧠 Fun Fact: I love solving logic puzzles and debugging like a detective 🕵️‍♀️
 
 ---
 
-### 🧰 Tech Toolbox
+### 💼 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,dsa,assembly,git,github,vscode" />
+</p>
+
+> 🌸 *I believe in learning by doing and growing by sharing.*
+
+---
+
+### 🚀 My Learning Journey
+
+- ✅ **C++** – mastering logic, functions, and OOP  
+- ✅ **DSA** – diving into algorithms and data structures  
+- ✅ **Assembly** – exploring low-level programming and memory management  
+- ✅ **HTML/CSS** – building clean & responsive UIs  
+- 🛠️ **Git & GitHub** – version control and open-source collaboration
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya-haq&show_icons=true&theme=tokyonight&hide_border=false" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya-haq&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya-haq&layout=compact&theme=tokyonight&hide_border=false" width="48%"/>
 </p>
 
 ---
 
-### 📊 GitHub at a Glance
+### 📂 Featured Projects *(Coming Soon)*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya-haq&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumaiya-haq&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya-haq&layout=compact&theme=radical" width="48%" />
-</p>
+> I'll be adding more personal and collaborative projects soon. Stay tuned!  
+> In the meantime, check out my repositories to see what I’m learning and building!
 
 ---
 
-### 📂 Featured Projects
-
-<!-- Replace these with your actual repositories -->
-- 🔭 [**Project Title 1**](#): Short description or tech used
-- 🌐 [**Project Title 2**](#): Short description or tech used
-- 📱 [**Project Title 3**](#): Short description or tech used
-
----
-
-### 🌍 Let’s Connect
+### 🌐 Let’s Connect!
 
 <p align="center">
   <a href="mailto:sumaiyahaq30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sumaiaya-haq-31034b2b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:23303137@iubat.edu"><img src="https://img.shields.io/badge/IUBAT_Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sumaiaya-haq-31034b2b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://fb.com/sumaiya.haq.39"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💬 Quote I Live By
+### 💬 Favorite Quote
 
-> *“First, solve the problem. Then, write the code.”* – John Johnson
+> *“The best way to predict the future is to invent it.”* – Alan Kay
 
 ---
-
