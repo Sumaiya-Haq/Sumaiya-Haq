@@ -20,13 +20,16 @@ I'm on a mission to learn, build, and grow into a skilled software developer who
 
 ---
 
-### 💼 Tech Toolbox
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,dsa,assembly,git,github,vscode" />
-</p>
-
-> 🌸 *I believe in learning by doing and growing by sharing.*
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-ffcc00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Assembly-4B0082?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
 ---
 
